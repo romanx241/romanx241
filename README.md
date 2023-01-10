@@ -1,7 +1,6 @@
 <h1 align="center">Привет! <a href="" target="_blank"></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
- <h2 align="center">!</p>  
-<h3 align="center">Я Junior Android разработчик🇷🇺</h3>
+<h3 align="center">Я Роман Хохлов, junior Android разработчик🇷🇺</h3>
 <p align="left"> <b>Мой стек:</b> Java, Kotlin, Android SDK, MVVM, Jetpack Compose, Compose Navigation, Room, Retrofit, Hilt</p>
 <p align="left"> <b>Еще стек:</b> Git, HTML5/CSS3 (Bootstrap), JavaScript (jQuery), SQL, Firebase, PHP</p>
  <h4 align="left"> <i>Проекты по Android разработке:</i>
