@@ -13,6 +13,8 @@
   <img src="https://github.com/romanx241/game-numbers" alt="(https://github.com/romanx241/game-numbers)">
 <p align="left">-Лента постов в соцсети<a href=""target=""></a>
   <img src="https://github.com/romanx241/NMedia" alt="(https://github.com/romanx241/NMedia)">  
+ <p align="left">-Список покупок<a href=""target=""></a>
+  <img src="https://github.com/romanx241/shop" alt="(https://github.com/romanx241/shop)">  
 <h4 align="left"> <i>Программы на JAVA:</i>
 <h4 align="left"></h4>
   <p align="left">-Курсовой проект<a href=""target=""></a>
