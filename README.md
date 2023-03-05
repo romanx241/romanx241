@@ -18,7 +18,7 @@
   <h4 align="left"> <i>Jetpack Compose:</i>
 <h4 align="left"></h4>
   <p align="left">-Movies App<a href=""target=""></a>
-  <img src="https://github.com/romanx241/" alt="(https://github.com/romanx241/)"> 
+  <img src="https://github.com/romanx241/MoviesApp" alt="(https://github.com/romanx241/MoviesApp)"> 
 <h4 align="left"> <i>Программы на JAVA:</i>
 <h4 align="left"></h4>
   <p align="left">-Курсовой проект<a href=""target=""></a>
