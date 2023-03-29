@@ -15,7 +15,9 @@
   <img src="https://github.com/romanx241/NMedia" alt="(https://github.com/romanx241/NMedia)">  
  <p align="left">-Список покупок<a href=""target=""></a>
   <img src="https://github.com/romanx241/shop" alt="(https://github.com/romanx241/shop)"> 
-  <h4 align="left"> <i>Jetpack Compose:</i>
+  <p align="left">-Агрегатор новостей<a href=""target=""></a>
+  <img src="https://github.com/romanx241/NewsApp" alt="(https://github.com/romanx241/NewsApp)"> 
+    <h4 align="left"> <i>Jetpack Compose:</i>
 <h4 align="left"></h4>
   <p align="left">-Movies App<a href=""target=""></a>
   <img src="https://github.com/romanx241/MoviesApp" alt="(https://github.com/romanx241/MoviesApp)"> 
